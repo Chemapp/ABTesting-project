@@ -1,7 +1,7 @@
 ## AB Test analysis. 
-____
-Project solution done by Jose Maria Prieto for Data Analyst Udacity nano degree
+Author: Jose Maria Prieto for Data Analyst Udacity nano degree exercise
 *****
+
 ### Introduction
 project: A/B test run by an e-commerce website. Goal is to help the company understand if they should implement the new page, keep the old page, or perhaps run the experiment longer to make their decision.
 *****
