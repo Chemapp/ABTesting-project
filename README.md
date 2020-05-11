@@ -1,10 +1,5 @@
-#
-Data Analyst Udacity nano degree
-AB Testing project solution done by Jose Maria Prieto
-#
-
-Analyze A/B Test Results
-This project will assure to master the subjects covered in the statistics lessons.
+## AB Test analysis. 
+## project solution done by Jose Maria Prieto for Data Analyst Udacity nano degree
 
 *****
 Introduction
